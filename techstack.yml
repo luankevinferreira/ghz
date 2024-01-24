@@ -1,0 +1,662 @@
+repo_name: luankevinferreira/ghz
+report_id: 761cb143663178789e352b39577d6225
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-24T00:07:38+00:00'
+requested_by: bojand
+provider: github
+branch: master
+detected_tools_count: 48
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/luankevinferreira/ghz
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/luankevinferreira/ghz
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/luankevinferreira/ghz
+  detection_source: Repo Metadata
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.9.4
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-08-08 00:32:27.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: Unstated
+  description: State so simple, it goes without saying
+  website_url: https://github.com/jamiebuilds/unstated
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/10015/Screen_Shot_2018-12-07_at_10.23.58_AM.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-21 22:15:00.000000000 Z
+- name: gRPC
+  description: A high performance, open-source universal RPC framework
+  website_url: https://grpc.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Remote Procedure Call (RPC)
+  image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-15 19:21:12.000000000 Z
+- name: GORM
+  description: The fantastic ORM library for Golang
+  website_url: https://gorm.io/
+  version: 1.9.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5194/default_c656a82cbf499a944563022a13ebbd62c9f3aa4b.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-15 19:21:12.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/.babelrc
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-21 22:15:00.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/luankevinferreira/ghz
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/.github/workflows/build.yaml
+  detection_source: ".github/workflows/build.yaml"
+  last_updated_by: Rui Chen
+  last_updated_on: 2020-06-01 01:33:12.000000000 Z
+- name: Parcel
+  description: "\U0001F4E6\U0001F680  A fast, zero configuration web application bundler"
+  website_url: https://parceljs.org/
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-31 23:08:46.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-09-04 00:23:54.000000000 Z
+- name: Testify
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  website_url: https://github.com/stretchr/testify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Go Testing
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2020-10-22 15:24:31.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-21 22:15:00.000000000 Z
+- name: Docusaurus
+  description: Easy to maintain open source documentation websites
+  website_url: https://docusaurus.io/
+  version: 1.14.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/8438/xyht_7gq_400x400.jpg
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/www/website/package-lock.json
+  detection_source: www/website/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2020-01-22 02:21:48.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-06-05 01:19:50.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/luankevinferreira/ghz
+  detection_source: Repo Metadata
+- name: assert.v1
+  description: Package assert provides some basic assertion functions for testing
+    and also provides the building blocks for creating your own more complex validations
+  package_url: https://pkg.go.dev/gopkg.in/go-playground/assert.v1
+  version: 1.2.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Peter Edge
+  last_updated_on: 2019-02-01 16:22:59.000000000 Z
+- name: client_model
+  description: Data model artifacts for Prometheus
+  package_url: https://pkg.go.dev/github.com/prometheus/client_model
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-09-04 00:23:54.000000000 Z
+- name: common
+  description: Go libraries shared across Prometheus components and libraries
+  package_url: https://pkg.go.dev/github.com/prometheus/common
+  version: 0.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-09-04 00:23:54.000000000 Z
+- name: configor
+  description: Golang Configuration tool that support YAML
+  package_url: https://pkg.go.dev/github.com/jinzhu/configor
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-23 13:21:05.000000000 Z
+- name: echo
+  description: High performance, minimalist Go web framework
+  package_url: https://pkg.go.dev/github.com/labstack/echo
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Pierre Fenoll
+  last_updated_on: 2019-07-04 09:02:44.000000000 Z
+- name: errors
+  description: Simple error handling primitives
+  package_url: https://pkg.go.dev/github.com/pkg/errors
+  version: 0.8.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2020-10-22 15:24:31.000000000 Z
+- name: go-humanize
+  description: Go Humans!
+  package_url: https://pkg.go.dev/github.com/dustin/go-humanize
+  version: 1.0.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-08-08 00:32:27.000000000 Z
+- name: gogo/protobuf
+  description: Protocol Buffers for Go with Gadgets
+  package_url: https://pkg.go.dev/github.com/gogo/protobuf
+  version: 1.1.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-09-04 00:23:54.000000000 Z
+  vulnerabilities:
+  - name: Improper Input Validation in GoGo Protobuf
+    cve_id: CVE-2021-3121
+    cve_url: https://github.com/advisories/GHSA-c3h9-896r-86jm
+    detected_date: Mar 30
+    severity: high
+    first_patched: 1.3.2
+- name: gommon
+  description: Common packages for Go
+  package_url: https://pkg.go.dev/github.com/labstack/gommon
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-09-04 00:23:54.000000000 Z
+- name: google/uuid
+  description: 'Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication
+    and Security Services'
+  package_url: https://pkg.go.dev/github.com/google/uuid
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-08-08 00:32:27.000000000 Z
+- name: kingpin
+  description: A Go
+  package_url: https://pkg.go.dev/github.com/alecthomas/kingpin
+  version: 1.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2019-11-29 17:44:40.000000000 Z
+- name: locales
+  description: ":earth_americas: a set of locales generated from the CLDR Project
+    which can be used independently or within an i18n package; these were built for
+    use with"
+  package_url: https://pkg.go.dev/github.com/go-playground/locales
+  version: 0.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-23 13:21:05.000000000 Z
+- name: middleware
+  description: High performance, minimalist Go web framework
+  package_url: https://pkg.go.dev/github.com/labstack/echo/middleware
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-15 19:21:12.000000000 Z
+- name: net
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-15 19:21:12.000000000 Z
+- name: proto
+  description: Go support for Google's protocol buffers
+  package_url: https://pkg.go.dev/github.com/golang/protobuf/proto
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2021-08-08 00:32:27.000000000 Z
+- name: statik
+  description: Embed files into a Go executable
+  package_url: https://pkg.go.dev/github.com/rakyll/statik
+  version: 0.1.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Pierre Fenoll
+  last_updated_on: 2019-07-04 09:02:44.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-15 19:21:12.000000000 Z
+- name: template
+  description: Fork of Go's text/template adding newline elision
+  package_url: https://pkg.go.dev/github.com/alecthomas/template
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-23 13:21:05.000000000 Z
+- name: tools
+  description: Go Tools
+  package_url: https://pkg.go.dev/golang.org/x/tools
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2020-10-22 15:24:31.000000000 Z
+- name: universal-translator
+  description: ":speech_balloon: i18n Translator for Go/Golang using CLDR data + pluralization
+    rules"
+  package_url: https://pkg.go.dev/github.com/go-playground/universal-translator
+  version: 0.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-23 13:21:05.000000000 Z
+- name: validator
+  description: ":100:Go Struct and Field validation"
+  package_url: https://pkg.go.dev/github.com/go-playground/validator
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-23 13:21:05.000000000 Z
+- name: zap
+  description: Blazing fast, structured, leveled logging in Go
+  package_url: https://pkg.go.dev/go.uber.org/zap
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Bojan
+  last_updated_on: 2018-12-15 19:21:12.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: parcel-bundler
+  description: Blazing fast, zero configuration web application bundler
+  package_url: https://www.npmjs.com/parcel-bundler
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16248/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2019-10-31 23:08:46.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 16.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/luankevinferreira/ghz/blob/master/web/ui/package-lock.json
+  detection_source: web/ui/package.json
+  last_updated_by: Bojan
+  last_updated_on: 2021-02-12 02:20:23.000000000 Z
