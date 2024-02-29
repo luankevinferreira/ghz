@@ -4,22 +4,22 @@
 luankevinferreira/ghz is built on the following main stack:
 
 - [Golang](http://golang.org/) – Languages
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Prometheus](http://prometheus.io/) – Monitoring Tools
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [Chart.js](http://www.chartjs.org/) – Charting Libraries
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
+- [Unstated](https://github.com/jamiebuilds/unstated) – State Management Library
 - [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
 - [GORM](https://gorm.io/) – Object Relational Mapper (ORM)
-- [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
-- [Docusaurus](https://docusaurus.io/) – Documentation as a Service & Tools
-- [Testify](https://github.com/stretchr/testify) – Go Testing
-- [Unstated](https://github.com/jamiebuilds/unstated) – State Management Library
+- [Babel](http://babeljs.io/) – JavaScript Compilers
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
+- [Prometheus](http://prometheus.io/) – Monitoring Tools
+- [Testify](https://github.com/stretchr/testify) – Go Testing
+- [Docusaurus](https://docusaurus.io/) – Documentation as a Service & Tools
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -30,22 +30,22 @@ Full tech stack [here](/techstack.md)
 luankevinferreira/ghz is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/10015/Screen_Shot_2018-12-07_at_10.23.58_AM.png' alt='Unstated'/> [Unstated](https://github.com/jamiebuilds/unstated) – State Management Library
 - <img width='25' height='25' src='https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png' alt='gRPC'/> [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
 - <img width='25' height='25' src='https://img.stackshare.io/service/5194/default_c656a82cbf499a944563022a13ebbd62c9f3aa4b.png' alt='GORM'/> [GORM](https://gorm.io/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg' alt='Parcel'/> [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/8438/xyht_7gq_400x400.jpg' alt='Docusaurus'/> [Docusaurus](https://docusaurus.io/) – Documentation as a Service & Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/10015/Screen_Shot_2018-12-07_at_10.23.58_AM.png' alt='Unstated'/> [Unstated](https://github.com/jamiebuilds/unstated) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg' alt='Parcel'/> [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/8438/xyht_7gq_400x400.jpg' alt='Docusaurus'/> [Docusaurus](https://docusaurus.io/) – Documentation as a Service & Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [luankevinferreira/ghz](https://github.com/luankevinferreira/ghz)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|01/24/24 <br/>Report generated|
+|48<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
